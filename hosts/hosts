@@ -6,4 +6,4 @@ ansible_user=ec2-user
 MY_APP_PRIVATE_IP
 
 [defaults]
-host_key_checking = False
+host_key_checking=False
